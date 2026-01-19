@@ -1,4 +1,4 @@
-// Program: VarsAndMath.java
+// Program: VarsAndMath.VarsAndMath.java
 // Demonstrates primitive variables, arithmetic, and string concatenation
 
 public static void main(String[] args) {

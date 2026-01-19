@@ -1,3 +1,5 @@
+package CircleArea;
+
 import java.util.Scanner;
 
 public class CircleArea {

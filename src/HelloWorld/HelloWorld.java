@@ -1,4 +1,4 @@
-// HelloWorld.java
+package HelloWorld;// HelloWorld.HelloWorld.java
 // A simple Java program that prints "Hello World!" to the console.
 
 public class HelloWorld {

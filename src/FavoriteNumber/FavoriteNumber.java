@@ -1,3 +1,5 @@
+package FavoriteNumber;
+
 import java.util.Scanner;
 
 public class FavoriteNumber {
